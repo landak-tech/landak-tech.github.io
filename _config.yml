@@ -8,8 +8,8 @@ skills: "Business Analytics - BI Dashboard - Data Warehouse"
 meta_author: Pawitro Joko
 logo: img/logo.svg
 about: 
-  paragraph1: Landak Analytics will tell you stories about your data, regarding what, why and how we're going to gain insight, make decisions and act upon it. We provide high quality, on-time, and on-budget data analytics services for business.
-  paragraph2: We aim to help entrepreneurs, small-medium enterprises & startups to implement data analytics from the early stage, furthermore use it to solve their problem and expand their business. We also offer a special rate for a certain type of non-profit organization.
+  paragraph1: Landak Analytics will tell you stories about your data, gain insight, make decisions and plan actions upon it. We provide high quality, on-time, and on-budget data analytics services for business.
+  paragraph2: We aim to help entrepreneurs, small-medium enterprises & startups to implement data analytics from their early stage, furthermore use it to solve their problem and expand their business.
 
 # Google webmaster tools
 google_verify:
@@ -39,20 +39,20 @@ footer:
   copyright: Landak Analytics
   location: Indonesia
   social: Around the Web
-  credits: Credits
+  notes: Special Services
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
+  - title: instagram
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/landak-tech
 
 # Postal address (add as many lines as necessary)
 address:
@@ -60,8 +60,8 @@ address:
   - line: Sidoarjo 61257
   - line: (Available for remote work)
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Notes content
+notes:  We offer a special rate to a certain type of non-profit organization, please feel free to fill these <a href="{{ site.googleform }}">form</a> and we'll get back to you as soon as possible to validate your eligibility.
 
 # Build settings
 markdown: kramdown
@@ -74,3 +74,7 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+
+#for non profit organization
+googleform: https://forms.gle/vc3eGytrxRqS2HNT7

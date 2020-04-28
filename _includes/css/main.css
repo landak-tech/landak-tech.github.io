@@ -368,8 +368,8 @@ footer .footer-below {
 .scroll-top {
     z-index: 1049;
     position: fixed;
-    right: 2%;
-    bottom: 2%;
+    right: 22px;
+    bottom: 80px;
     width: 50px;
     height: 50px;
 }
@@ -381,6 +381,7 @@ footer .footer-below {
     font-size: 20px;
     line-height: 28px;
 }
+
 
 .scroll-top .btn:focus {
     outline: 0;

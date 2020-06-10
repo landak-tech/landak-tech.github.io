@@ -2,9 +2,9 @@
 title: A Data Storyteller
 email: support@landak.tech
 url: https://www.landak.tech
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Business Analytics - BI Dashboard - Data Warehouse"
+description: "A private consultant in business and data analytics."
+keywords: "business analytics, data analytics, data, analytics, business, business intelligence, visual analytics, descriptive analytics, diagnostic analytics, predictive analytics, prescriptive analytics, affordable, remote work"
+skills: "Business Analytics - Business Intelligence"
 meta_author: Pawitro Joko
 logo: img/logo.svg
 about: 
@@ -44,7 +44,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/company/landak/
   - title: facebook
     url:
   - title: stack-overflow

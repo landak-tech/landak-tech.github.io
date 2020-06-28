@@ -4,8 +4,8 @@ email: support@landak.tech
 url: https://www.landak.tech
 description: "A private consultant in business and data analytics."
 keywords: "business analytics, data analytics, data, analytics, business, business intelligence, visual analytics, descriptive analytics, diagnostic analytics, predictive analytics, prescriptive analytics, affordable, remote work"
-skills: "Business Analytics - Business Intelligence"
-meta_author: Pawitro Joko
+skills: "Data Analytics - BI Development - Python Development"
+meta_author: Landak Analytics
 logo: img/logo.svg
 about: 
   paragraph1: Landak Analytics will tell you stories about your data, gain insight, make decisions and plan actions upon it. We provide high quality, on-time, and on-budget data analytics services for business.
@@ -56,8 +56,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: TIR AA 19
-  - line: Sidoarjo 61257
+  - line: Greater Surabaya Area
+  - line: East Java
   - line: (Available for remote work)
 
 # Notes content

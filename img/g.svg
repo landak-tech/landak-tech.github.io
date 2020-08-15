@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="g.svg">
+   sodipodi:docname="g.svg"
+   inkscape:export-filename="/home/jpawitro/git/landak-tech.github.io/img/g.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <linearGradient
@@ -64,9 +67,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="35.102406"
-     inkscape:cy="82.804886"
+     inkscape:zoom="5.496"
+     inkscape:cx="125"
+     inkscape:cy="79.947743"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"

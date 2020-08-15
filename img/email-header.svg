@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="email-header.svg">
+   sodipodi:docname="email-header.svg"
+   inkscape:export-filename="/home/jpawitro/git/landak-tech.github.io/img/email-header.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <filter
@@ -296,8 +299,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70475112"
-     inkscape:cx="505.95851"
-     inkscape:cy="517.49712"
+     inkscape:cx="268.99542"
+     inkscape:cy="511.82136"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -827,7 +830,7 @@
            x="-252.57143"
            y="-175.89407"
            style="-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara1016"></flowPara></flowRoot>    <g
+         id="flowPara1016" /></flowRoot>    <g
        aria-label="We Analyze, You Decide "
        transform="matrix(0.43820129,0,0,0.43820129,138.59755,316.16452)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;filter:url(#filter1084)"

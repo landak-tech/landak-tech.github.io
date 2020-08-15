@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1200"
-   height="800"
-   viewBox="0 0 317.49999 211.66667"
+   height="850"
+   viewBox="0 0 317.49999 224.89583"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -101,9 +101,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4983343"
-     inkscape:cx="93.308123"
-     inkscape:cy="15.166258"
+     inkscape:zoom="0.24916715"
+     inkscape:cx="-1025.1641"
+     inkscape:cy="1054.2171"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -132,10 +132,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-85.333316)">
+     transform="translate(0,-72.104149)">
     <g
        id="g1837"
-       transform="translate(53.090003,-19.577404)">
+       transform="translate(53.090003,-31.219078)">
       <circle
          r="83.532738"
          cy="191.54463"
@@ -622,7 +622,7 @@
     </g>
     <g
        aria-label="We analyze, you decide. "
-       transform="matrix(0.42713654,0,0,0.42713654,251.49292,84.484792)"
+       transform="matrix(0.42713654,0,0,0.42713654,251.49292,72.843118)"
        clip-path="url(#clipPath977)"
        style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter973)"
        id="flowRoot897">
@@ -729,7 +729,7 @@
     </g>
     <g
        aria-label="Optimize your time to create strategic plans and make decisions, let us handle the analysis"
-       transform="matrix(0.42713654,0,0,0.42713654,354.74938,71.656998)"
+       transform="matrix(0.50356347,0,0,0.50356347,387.68693,27.028463)"
        style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.5ex;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter961)"
        id="flowRoot915">
       <path
